@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComputerRepairRequestTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-11T15:49:09" hostname="ANCA-LAPTOP" time="0.032">
+  <properties/>
+  <testcase name="First Test" classname="ComputerRepairRequestTest" time="0.014"/>
+  <testcase name="Test Example" classname="ComputerRepairRequestTest" time="0.001"/>
+  <testcase name="Third Test" classname="ComputerRepairRequestTest" time="0.003"/>
+  <testcase name="Forth Test" classname="ComputerRepairRequestTest" time="0.005"/>
+  <system-out><![CDATA[Au trecut testele
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
